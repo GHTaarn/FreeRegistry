@@ -1,0 +1,5 @@
+name = "FreeRegistry"
+uuid = "541705df-369b-4b86-be5f-0cd910f78608"
+repo = "git@github.com:GHTaarn/FreeRegistry"
+
+[packages]
