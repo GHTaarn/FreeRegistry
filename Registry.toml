@@ -3,3 +3,4 @@ uuid = "541705df-369b-4b86-be5f-0cd910f78608"
 repo = "git@github.com:GHTaarn/FreeRegistry"
 
 [packages]
+1d60e3b1-536a-4e4e-a637-1f588248ba8b = { name = "History", path = "H/History" }
