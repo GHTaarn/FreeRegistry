@@ -4,3 +4,4 @@ repo = "https://github.com/GHTaarn/FreeRegistry"
 
 [packages]
 1d60e3b1-536a-4e4e-a637-1f588248ba8b = { name = "History", path = "H/History" }
+b1b94250-c2ee-4735-b5f7-9deb07899968 = { name = "TerminalFilePicker", path = "T/TerminalFilePicker" }
