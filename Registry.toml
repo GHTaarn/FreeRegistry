@@ -7,5 +7,6 @@ repo = "https://github.com/GHTaarn/FreeRegistry"
 5ca6e7c4-69d2-49cf-b3ce-e6fbf50f8d91 = { name = "InfiniteSets", path = "I/InfiniteSets" }
 69a09798-4151-4e00-a77a-c03ba22cfc97 = { name = "DeepEquals", path = "D/DeepEquals" }
 7d5ddd29-585a-4ccb-ac42-b8c514ef29f6 = { name = "SimpleUI", path = "S/SimpleUI" }
+a09d5414-a7d5-4026-ae9a-527233062b88 = { name = "LoggingUtils", path = "L/LoggingUtils" }
 b1b94250-c2ee-4735-b5f7-9deb07899968 = { name = "TerminalFilePicker", path = "T/TerminalFilePicker" }
 bb9e6309-7d64-4f6d-ac8f-d91cc9cb9933 = { name = "TStr", path = "T/TStr" }
